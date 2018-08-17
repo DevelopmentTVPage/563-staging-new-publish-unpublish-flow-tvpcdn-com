@@ -1,0 +1,15 @@
+{
+    "title": "New Stage Project",
+    "baseURL": "https:\/\/staging-new-publish-unpublish-flow.tvpcdn.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1758991",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "tvpcdn.com"
+    }
+}
